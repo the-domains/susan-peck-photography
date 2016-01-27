@@ -1,0 +1,28 @@
+name: Susan Peck Photography
+favicon: null
+layout_spectrum: 0.11694966186769307
+typography_spectrum: 0.03209214727394283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3991847487632185
+  lightness: 0.040934725664556026
+  saturation: 0.916879381518811
+  rhythmicContrast: 0.9790499771479517
+purpose: []
